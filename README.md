@@ -1,6 +1,8 @@
 # Overview
 This is the accompanying research data for the paper de Guzman et al. (2023) - **Treated and highly diluted, but wastewater still impacts diversity and energy fluxes of freshwater food webs** accepted in Journal of Environmental Management.
 
+An ecosystem-level manipulation experiment was conducted following a BACI (Before-After/Control-Impact) design, where part of the effluent of a large tertiary urban WWTP was diverted into a small nearly unpolluted stream to assess its effects on the structure of the biological community and on the energy fluxes along the food web. 
+
 Five datasets are provided together with the code.
 # Datasets
 
